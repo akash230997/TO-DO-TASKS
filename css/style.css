@@ -63,10 +63,17 @@ body{
 .AddList{
     float: right;
     font-size: 1.5rem;
-    margin-top: 50px;
+    margin-top: -40px;
 }
 .AddList a{
     text-decoration: none;
+}
+.fa-poo-storm{
+    font-size: 2.2rem;
+    color: rgb(201, 71, 5);
+}
+.fa-poo-storm:hover{
+    color: black;
 }
 .fa-plus-circle{
     font-size: 2.2rem;
